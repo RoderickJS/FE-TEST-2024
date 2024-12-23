@@ -1,4 +1,4 @@
-# FE-TEST-2024
+# FE + Web3 Test 2024
 
 **Description:**
 1. Create a Next.js application using typescript, Next.js's app router, tailwind, and any additional libraries, and frameworks of your choice. 
